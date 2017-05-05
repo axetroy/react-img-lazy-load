@@ -64,7 +64,7 @@ render(<App />, element);
 
 - onLeave: function
 
-- and other props of <img/> tag
+- and other props of img tag
     
 ## Run the Demo
 
