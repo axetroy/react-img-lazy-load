@@ -1,5 +1,5 @@
 {
-  "name": "@axetroy/react-img-lazy-load.js",
+  "name": "@axetroy/react-img-lazy-load",
   "version": "0.1.0",
   "description": "Image lazy load component for react",
   "main": "index.js",
