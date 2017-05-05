@@ -1,5 +1,7 @@
 # react-img-lazy-load
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/react-img-lazy-load.svg)](https://greenkeeper.io/)
+
 Image lazy load component for react
 
 ## Install
