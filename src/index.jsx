@@ -101,6 +101,7 @@ export default class LazyImage extends Component {
     const { loaded } = this.state;
     return (
       <div
+        style={{ display: 'inline-block' }}
         className="react-img-lazy-load-container"
         ref={dom => (this.__container = dom)}
       >
