@@ -1,6 +1,6 @@
 # react-img-lazy-load
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/react-img-lazy-load.svg)](https://greenkeeper.io/)
+> Project have been deprecated. Move to [https://github.com/axetroy/lazy-image](https://github.com/axetroy/lazy-image)
 
 Image lazy load component for react
 
